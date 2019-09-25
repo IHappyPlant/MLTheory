@@ -3,3 +3,5 @@
 
 [Метрические алгоритмы классификации](MetricClassifiers.ipynb)  
 [Байесовские алгоритмы классификации](BayesClassifiers.ipynb)  
+[Линейные алгоритмы классификации](LinearClassifiers.ipynb)  
+

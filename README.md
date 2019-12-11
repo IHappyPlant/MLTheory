@@ -6,4 +6,3 @@
 [Линейные алгоритмы классификации](LinearClassifiers.ipynb)  
 [Непараметрическая регрессия. LOWESS](NonParametricRegression.ipynb)  
 [Линейная регрессия](LinearRegression.ipynb)  
-
